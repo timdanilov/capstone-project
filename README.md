@@ -3,9 +3,9 @@
 
 ## Capstone Project
 
-Project Track: Commodities
+Project Track: **Commodities**
 
-Topic: Oil Product Relationships in Different Markets
+Topic: **Oil Product Relationships in Different Markets**
 
 ## Authors:
 
