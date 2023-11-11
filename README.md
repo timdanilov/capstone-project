@@ -13,6 +13,8 @@ Julius Adenihun - adenihunjulius@yahoo.com
 
 Timofei Danilov - tim.danilov.ys@gmail.com
 
+Group 4528
+
 ## References:
 + [Artificial Intelligence-Based Prediction of Crude Oil Prices Using Multiple Features under the Effect of Russia–Ukraine War and COVID-19 Pandemic](https://www.mdpi.com/2227-7390/10/22/4361)
 
