@@ -1,5 +1,5 @@
 pandas
 numpy
 fredapi
-EIA_python
+seaborn
 requests
